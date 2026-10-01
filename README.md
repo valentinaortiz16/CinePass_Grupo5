@@ -3,7 +3,7 @@
 ## Integrantes
 - Sandra Alulema =  Pruebas de Escritorio y Depuracion
 - Anthony Armas = Código JAVA
-- Joselyn Guaman = Análisis
+- Joselyn Guaman = Análisis y PDF con evidencias
 - Valentina Ortiz= Repositorio y Diagrama de flujo
 - Andres Vayas = Pseucodigo
 
@@ -77,3 +77,4 @@ java CinePass
   1 y 110, y el programa vuelve a pedir la edad sin registrar la venta.
   Si luego se ingresa edad = 65, sala = 1 (Normal), día = sábado, el valor es
   $3.50 ($5.00 – 30 %).
+  
