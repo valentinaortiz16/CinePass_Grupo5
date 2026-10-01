@@ -1,7 +1,7 @@
 # CinePass – Sistema de venta de boletos de cine
 
 ## Integrantes
-- Sandra Aululema
+- Sandra Alulema
 - Anthony Armas
 - Joselyn Guaman
 - Andres Vayas
