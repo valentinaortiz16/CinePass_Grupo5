@@ -1,10 +1,11 @@
 # CinePass – Sistema de venta de boletos de cine
 
 ## Integrantes
-- Sandra Alulema
-- Anthony Armas
-- Joselyn Guaman
-- Andres Vayas
+- Sandra Alulema =  Pruebas de Escritorio y Depuracion
+- Anthony Armas = Código JAVA
+- Joselyn Guaman = Análisis
+- Valentina Ortiz= Repositorio y Diagrama de flujo
+- Andres Vayas = Pseucodigo
 
 ## Ejercicio asignado
 **Grupo 5 – CinePass: Cine.**
