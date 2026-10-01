@@ -4,7 +4,7 @@
 - Sandra Alulema =  Pruebas de Escritorio y Depuracion
 - Anthony Armas = Código JAVA
 - Joselyn Guaman = Análisis y PDF con evidencias
-- Valentina Ortiz= Repositorio y Diagrama de flujo
+- Valeria Ortiz= Repositorio y Diagrama de flujo
 - Andres Vayas = Pseucodigo
 
 ## Ejercicio asignado
